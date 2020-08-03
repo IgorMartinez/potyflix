@@ -2,15 +2,65 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Front End",
-      "descricao": "Uma categoria bacanudassa",
-      "cor": "#cbd1ff"
+      "titulo": "Categoria Ipsum 1",
+      "descricao": "Pellentesque ornare lacus ac dui eleifend interdum.",
+      "cor": "#55A3AB"
     },
     {
       "id": 2,
-      "nome": "Back End",
-      "descricao": "Outra categoria bacanudassa",
-      "cor": "#aaaaaa"
+      "titulo": "Categoria Ipsum 2",
+      "descricao": "Curabitur aliquet, nulla sit amet posuere vehicula.",
+      "cor": "#A2D7D5"
+    },
+    {
+      "id": 3,
+      "titulo": "Categoria Ipsum 3",
+      "descricao": "Nam a dignissim lacus. Aenean viverra luctus.",
+      "cor": "#DF807E"
+    },
+    {
+      "id": 4,
+      "titulo": "Categoria Ipsum 4",
+      "descricao": "Ut at nisi lobortis, interdum tellus ac.",
+      "cor": "#F5E97E"
+    },
+    {
+      "id": 5,
+      "titulo": "Categoria Ipsum 5",
+      "descricao": "Praesent iaculis lacinia erat eu placerat. Vivamus.",
+      "cor": "#CC6310"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Squirtle",
+      "url": "https://www.youtube.com/watch?v=__FYSw-PvOs"
+    },
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "Squirtle",
+      "url": "https://www.youtube.com/watch?v=__FYSw-PvOs"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "Squirtle",
+      "url": "https://www.youtube.com/watch?v=__FYSw-PvOs"
+    },
+    {
+      "id": 4,
+      "categoriaId": 4,
+      "titulo": "Squirtle",
+      "url": "https://www.youtube.com/watch?v=__FYSw-PvOs"
+    },
+    {
+      "id": 5,
+      "categoriaId": 5,
+      "titulo": "Squirtle",
+      "url": "https://www.youtube.com/watch?v=__FYSw-PvOs"
     }
   ]
 }
