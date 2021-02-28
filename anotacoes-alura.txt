@@ -1,0 +1,70 @@
+Aula 1
+	Roteiro da aula
+		Iniciaremos um projeto com Create React App (CRA);
+		Criaremos components com React usando styled-components;
+		Organizaremos as pastas do nosso projeto;
+		Passaremos propriedades para components;
+		Faremos deploy da sua AluraFlix na Vercel.
+	Desafios da equipe
+		Colocar a sua versão da AluraFlix, com o nome que você acha feliz;
+		Mudar as cores, logo e tudo mais que te der vontade;
+		Alterar os vídeos e categorias com conteúdos que você gosta;
+	Conteúdo extra
+		Import projeto do Figma
+			https://www.youtube.com/watch?v=-TaHyW4nMtg&feature=youtu.be
+		Gerador de Logo
+			https://fontmeme.com
+		O que todo projeto deveria ter?
+			https://www.youtube.com/watch?v=yMRSDdifGW8
+
+Aula 2
+	Roteiro da aula
+		Entender o que é um SPA;
+		Utilizaremos a react-router-dom para controlar as rotas;
+		Entender a diferença entre a tag a e o component Link;
+		Como lidar com caminhos paths que não existe, famoso 4040;
+		Carousel com a react-slick;
+		Criaremos um template com o cabelho e o rodapé;
+		Como deixar sempre o footer embaixo na página;
+		Criação do formulário para casdastrar categoria;
+		E sempre faremos deploy da sua AluraFlix na Vercel.
+	Desafios
+		Colocar algo legal na página 404 (jogo da ImersaoGameDev ou Flappy Bird do Mario);
+	Conteúdo extra
+		Aprender forEach e map - Mario Souto
+			https://www.youtube.com/watch?v=JbzcLKiTThk
+		Criando Flappy Bird com JavaScript - Mario Souto
+			https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej
+		Pare de chutar CSS - Marco Bruno
+			https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x
+
+Aula 3
+	Roteiro da aula
+		Como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+
+Aula 4
+	Roteiro da aula
+		Garantindo padrões de código com EsLint (AirBnB)
+		Configurando o nosso servidor portátil com json-server
+	Desafios
+		Variar a animação do form com a propriedade transform
+		Tentar cadastrar uma categoria
+		Desafio extra: API Alura
+			https://suporte.alura.com.br/article/315-como-funciona-a-api-publica-da-alura
+			https://suporte.alura.com.br/article/314-beta-api-do-dashboard-para-alunos
+	Conteúdo extra
+
+Aula 5
+	Roteiro da aula
+		Cadastro de vídeos
+		Reuso para reuso de lógicas de state
+		Deixando a Home dinâmica
+		Fazendo as categorias aparecerem
+		Cadastrando vídeos
+	Desafios
+		Implementar a funcionalidade de edição e de exclusão também!
+	Conteúdo extra
+		Como fazer validação com React
+			https://youtu.be/-nYNd6EuZHU
+
+
